@@ -1,0 +1,6 @@
+.env
+audios
+data
+images
+dist
+node_modules
